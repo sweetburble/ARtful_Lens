@@ -12,5 +12,5 @@
 * Distortion coefficient (k1, k2, p1, p2, k3, ...) = [-0.06069549  0.22139663  0.01160415  0.00902801 -0.24748586]
 
 ---
-### 캘리브레이션 결과를 활용한, 렌즈 왜곡 보정 동영상
+### 캘리브레이션 결과를 활용하여, AR object 시각화하기 (Heart ❤️)
 https://github.com/sweetburble/ARtful_Lens/assets/79733289/1836c274-b084-4f6a-97b9-a0466da72e9e
